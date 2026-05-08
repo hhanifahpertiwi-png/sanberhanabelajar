@@ -1,0 +1,21 @@
+{
+  "validUser": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+
+  "invalidUsername": {
+    "username": "hana123",
+    "password": "admin123"
+  },
+
+  "invalidPassword": {
+    "username": "Admin",
+    "password": "Mandiri123"
+  },
+
+  "wrongFormatUsername": {
+    "username": "Admin@12345",
+    "password": "admin123"
+  }
+}
